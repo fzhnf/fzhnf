@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fzhnf
-- 👀 I’m interested in foss and indie software/game
-- 🌱 I’m currently learning linux, godot, krita
-- 💞️ I’m looking to collaborate on idk
+name is Faiz Ahnaf
+Interested in Linux, FOSS, & indie game development
+very early stage of learning HTML, CSS, JavaScript, & GDscript.
+wanted to make money from game & website
