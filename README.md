@@ -1,7 +1,7 @@
-• name is Faiz Ahnaf
+•👦 name is Faiz Ahnaf
 
-• Interested in Linux, FOSS, & indie game development
+•💕 Interested in Linux, FOSS, & indie game development 
 
-• very early stage of learning HTML, CSS, JavaScript, & GDscript.
+•📝 Very early stage of learning HTML, CSS, JavaScript, & GDscript
 
-• wanted to make profit from game & website
+•🔮 Wanted to make profit from game & website
