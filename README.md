@@ -1,5 +1,5 @@
 <p align="center"><img width="100px" src="https://avatars.githubusercontent.com/u/93417786?v=4" align="center"/></p>
-<h2 align="center" >(◕ ̮ ◕)つ─✿❃ꕤ✿̶̥̥❀</h2>
+<h2 align="center" >(◕ ̮ ◕)っ❃🌸💮🪷🌹🌺🌻🌼🌷🪻✿</h2>
 <p align="center"><img src="https://cdn3.emoji.gg/emojis/3518-wawa-cat.gif" align="center"/></p>
 <h2 style="color: #EBA0AC">Stats</h2>
 
